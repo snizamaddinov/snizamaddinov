@@ -21,7 +21,9 @@
 
 ## My Skill Set  
 <div align="center">
-<a style="margin: 10px" href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/d0bbc6c9-9c3e-4cc8-ac33-d4602b997708" alt="PHP" height="50" /></a> 
+<kbd>
+<a style="margin: 30px" href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/d0bbc6c9-9c3e-4cc8-ac33-d4602b997708" alt="PHP" height="50" /></a> 
+</kbd>
 <a style="margin: 10px" href="https://symfony.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/83a52564-5caf-4754-bc2b-28d05287b52c" alt="Symfony" height="50" /></a>  
 <a style="margin: 10px" href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/ca300e45-cc02-4d88-8370-797ed2352bca" alt="MySQL" height="50" /></a> 
 <a style="margin: 10px" href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/cbaef796-09fe-4c50-a175-42966a9f6221" alt="Docker" height="50" /></a>
