@@ -22,7 +22,7 @@
 ## My Skill Set  
 <div align="center">
 <kbd>
-<a style="margin: 30px" href="https://www.php.net/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/d0bbc6c9-9c3e-4cc8-ac33-d4602b997708" alt="PHP" height="50" /></a>
+<a style="margin: 40px" href="https://www.php.net/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/d0bbc6c9-9c3e-4cc8-ac33-d4602b997708" alt="PHP" height="50" /></a>
 </kbd>
 <kbd>
 <a  href="https://symfony.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/83a52564-5caf-4754-bc2b-28d05287b52c" alt="Symfony" height="50" /></a>
