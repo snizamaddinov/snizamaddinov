@@ -61,16 +61,16 @@
 <a style="margin: 40px" href="https://firebase.google.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/6a7a2168-9964-4320-ba07-2a772f2312ff" alt="Firebase" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.mongodb.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/5c8a7126-638f-4189-bf5d-c9627752fa1f" alt="MongoDB" height="50" /></a>
+<a style="margin: 40px" href="https://www.mongodb.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/5c8a7126-638f-4189-bf5d-c9627752fa1f" alt="MongoDB" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.javascript.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/0875e717-d3e4-498f-87e1-d694b730e28f" alt="JavaScript" height="50" /></a>
+<a style="margin: 40px" href="https://www.javascript.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/0875e717-d3e4-498f-87e1-d694b730e28f" alt="JavaScript" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://html.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/cbea497e-6f50-403e-9f36-c51df5bca8f2" alt="HTML" height="50" /></a>  
+<a style="margin: 40px" href="https://html.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/cbea497e-6f50-403e-9f36-c51df5bca8f2" alt="HTML" height="50" /></a>  
 </kbd>
 <kbd>
-<a  href="https://www.css3.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/fba8f8e9-aa6a-49a5-8397-e3094d7d5e04" alt="CSS3" height="50" /></a>  
+<a style="margin: 40px" href="https://www.css3.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/fba8f8e9-aa6a-49a5-8397-e3094d7d5e04" alt="CSS3" height="50" /></a>  
 </kbd>
 </div>  
 
