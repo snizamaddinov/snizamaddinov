@@ -9,7 +9,7 @@
 ### Little about me
 
 - 👨🏻‍💻🏋️ Currently working on backend projects.
-- 🌱 Journeying to master **Symfony**.
+- 🌱 In a journey to master **Symfony**.
 
 ### Reach Out
 
