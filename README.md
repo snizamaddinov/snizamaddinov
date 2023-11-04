@@ -40,13 +40,13 @@
 <a style="margin: 40px" href="https://www.python.org/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/704c946a-ae7d-4827-a8fd-6f7139f21df9" alt="Python" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://github.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/daed0562-7e35-4bbf-899b-fd942ae6c82f" alt="Git" height="50" /></a>
+<a style="margin: 40px" href="https://github.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/daed0562-7e35-4bbf-899b-fd942ae6c82f" alt="Git" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.nginx.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/9504fb94-2d25-40b4-99a9-3727da15ca80" alt="Nginx" height="30" /></a>
+<a style="margin: 40px" href="https://www.nginx.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/9504fb94-2d25-40b4-99a9-3727da15ca80" alt="Nginx" height="30" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.postman.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/b0de2517-51bd-408b-8fe1-7cba8715e361" alt="Postman" height="50" /></a>
+<a style="margin: 40px" href="https://www.postman.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/b0de2517-51bd-408b-8fe1-7cba8715e361" alt="Postman" height="50" /></a>
 </kbd>
 <kbd>
 <a  href="https://www.java.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/ed35ec23-eae5-4947-a9c7-b0c2f9a07894" alt="Java" height="50" /></a>
