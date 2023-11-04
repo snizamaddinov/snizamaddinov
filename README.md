@@ -95,9 +95,7 @@
 ----
 <br/>  
 
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Shanazar2020&&style=flat-square)  
-
 
 <br/> 
 
