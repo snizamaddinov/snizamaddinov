@@ -31,13 +31,13 @@
 <a  style="margin: 40px" href="https://www.mysql.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/ca300e45-cc02-4d88-8370-797ed2352bca" alt="MySQL" height="50" /></a>
 </kbd>
 <kbd>
-<a  style="margin: 40px" href="https://www.docker.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/cbaef796-09fe-4c50-a175-42966a9f6221" alt="Docker" height="50" /></a>
+<a  style="margin: 40px" style="margin: 40px" href="https://www.docker.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/cbaef796-09fe-4c50-a175-42966a9f6221" alt="Docker" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.linux.org/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/090c729f-614f-4de2-8f43-3a028809ce44" alt="Linux" height="50" /></a>
+<a  style="margin: 40px" href="https://www.linux.org/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/090c729f-614f-4de2-8f43-3a028809ce44" alt="Linux" height="50" /></a>
 </kbd>
 <kbd>
-<a  href="https://www.python.org/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/704c946a-ae7d-4827-a8fd-6f7139f21df9" alt="Python" height="50" /></a>
+<a style="margin: 40px" href="https://www.python.org/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/704c946a-ae7d-4827-a8fd-6f7139f21df9" alt="Python" height="50" /></a>
 </kbd>
 <kbd>
 <a  href="https://github.com/" target="_blank"><img  src="https://github.com/Shanazar2020/Shanazar2020/assets/69158788/daed0562-7e35-4bbf-899b-fd942ae6c82f" alt="Git" height="50" /></a>
