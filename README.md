@@ -80,7 +80,7 @@
 
 ## Github Stats
 
-<div align="center" margin="30px">
+<div align="center" margin="40px">
   <img padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanazar2020&hide_border=true&layout=compact&hide=JavaScript,css" width="42.5%" />
   <img padding="5px" src="https://github-readme-stats.vercel.app/api?username=Shanazar2020&show_icons=true&count_private=true&hide_border=true" width="56%" />
 </div>
