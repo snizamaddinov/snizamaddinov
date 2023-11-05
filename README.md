@@ -86,7 +86,7 @@
 </div>
 
 <div align="center" style="margin: 40px">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanazar2020&show_icons=true&count_private=true&hide_border=true" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanazar2020&rank_icon=github&show_icons=true&count_private=true&hide_border=true" width="80%" />
 </div>
 
 <br/>  
