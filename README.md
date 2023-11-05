@@ -82,7 +82,7 @@
 
 <div align="center" margin="40px">
   <img padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanazar2020&hide_border=true&layout=compact&hide=JavaScript,css" width="42.5%" />
-  <img padding="5px" src="https://github-readme-stats.vercel.app/api?username=Shanazar2020&rank_icon=githubshow_icons=true&count_private=true&hide_border=true" width="56%" />
+  <img padding="5px" src="https://github-readme-stats.vercel.app/api?username=Shanazar2020&rank_icon=github&show_icons=true&count_private=true&hide_border=true" width="56%" />
 </div>
 
 <div align="center" style="margin: 40px">
