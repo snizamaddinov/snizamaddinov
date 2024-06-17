@@ -2,7 +2,7 @@
 
   ## Shanazar Nizamaddinov 👨🏻‍💻
 
-  ### A passionate Backend Developer and lifelong learner 🎯📚, saying hello to you! 🫵
+  ### Hi, I am a passionate Backend Developer and lifelong learner 🎯📚
 
 </div>
 
