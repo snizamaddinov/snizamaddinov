@@ -40,6 +40,11 @@
 <kbd>
 <a style="margin: 40px" href="https://www.python.org/" target="_blank"><img  src="https://github.com/snizamaddinov/snizamaddinov/assets/69158788/704c946a-ae7d-4827-a8fd-6f7139f21df9" alt="Python" height="50" /></a>
 </kbd>
+  
+  <kbd>
+<a style="margin: 40px" href="https://www.djangoproject.com/" target="_blank"><img  src="https://github.com/snizamaddinov/snizamaddinov/assets/69158788/ab89d18a-5640-4bcc-98be-4691c58a36e5" alt="Django Framework" height="50" /></a>
+</kbd>
+
 <kbd>
 <a style="margin: 40px" href="https://github.com/" target="_blank"><img  src="https://github.com/snizamaddinov/snizamaddinov/assets/69158788/daed0562-7e35-4bbf-899b-fd942ae6c82f" alt="Git" height="50" /></a>
 </kbd>
