@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "npx tailwindcss -i ./styles/tailwind.css -o ./dist/tailwind.css --watch",
-    "prodbuild" : "npx tailwindcss -i ./styles/tailwind.css -o ./dist/tailwind.css --minify"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,8 @@
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.45",
-    "tailwindcss": "^3.4.11"
+    "tailwindcss": "^3.4.11",
+    "vite": "^5.4.4",
+    "vite-plugin-tailwindcss": "^0.0.0-0"
   }
 }
