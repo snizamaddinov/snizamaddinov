@@ -3,7 +3,7 @@ export const experienceData = [
   {
     "title": "Backend Developer",
     "company": "BK Mobil",
-    "link": null,
+    "link": "https://bktomorrow.com/",
     "dateRange": {
       "start": "06-01-2023",
       "end": null
@@ -37,7 +37,7 @@ export const experienceData = [
   {
     "title": "Backend Developer",
     "company": "QOSHE",
-    "link": null,
+    "link": "https://qoshe.com/",
     "dateRange": {
       "start": "08-01-2021",
       "end": "06-01-2023"
@@ -47,13 +47,14 @@ export const experienceData = [
       "Python",
       "MySQL",
       "Redis",
-      "MongoDB"
+      "MongoDB",
+      "PHP"
     ]
   },
   {
     "title": "Full Stack Developer Intern",
     "company": "Innova",
-    "link": null,
+    "link": "https://www.innova.com.tr/",
     "dateRange": {
       "start": "07-01-2022",
       "end": "01-01-2022"
@@ -71,7 +72,7 @@ export const experienceData = [
   {
     "title": "Student Attendant and Web Developer Intern",
     "company": "Atilim University",
-    "link": null,
+    "link": "https://www.atilim.edu.tr/",
     "dateRange": {
       "start": "05-01-2021",
       "end": "09-01-2021"
@@ -79,7 +80,10 @@ export const experienceData = [
     "description": "Provided information to prospective students and built websites for university events, enhancing communication skills.",
     "technologies": [
       "PHP",
-      "MySQL"
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript"
     ]
   }
 ]
