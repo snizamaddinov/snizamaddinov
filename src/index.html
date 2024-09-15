@@ -1,19 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portfolio</title>
-  <link href="tailwind.css" rel="stylesheet">
-  <style>
-    body {
-        font-family: 'Rethink Sans', sans-serif;
-    }
-  </style>
+  <link href="styles/tailwind.css" rel="stylesheet">
 </head>
-<body class="bg-slate-50">
+<body class="bg-slate-50 leading-7 !font-sans tracking-wider">
   
-  <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
+  <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0">
     <div class="lg:flex lg:justify-between lg:gap-4">
         <header class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
           <div>
@@ -21,13 +16,14 @@
                   <h1 class="mt-4 text-4xl sm:text-5xl">
                     <a href="/">Shanazar Nizamaddinov</a>
                   </h1>
-                  <h2 class="mt-3 text-lg sm:text-xl">Senior Frontend Engineer</h2>
-                  <p class="mt-3 max-w-xs leading-normal">I build pixel-perfect, engaging, and accessible digital experiences.</p>
+                  <h2 class="mt-3 text-lg sm:text-xl">Backend Engineer</h2>
+                  <p class="mt-3 max-w-s leading-normal">I architect robust, scalable, and innovative solutions that power cutting-edge web services and AI-driven applications.</p>
               </div>
+
               <nav class="nav hidden lg:block">
                 <ul class="mt-16 w-max">
                     <li>
-                      <a class="group flex items-center py-3" href="#bio" class="text-gray-600  hover:text-black ">
+                      <a class="group flex items-center py-3" href="#about" class="text-gray-600  hover:text-black ">
                         <span class="nav-text text-xs uppercase tracking-widest group-hover:font-bold group-focus-visible:font-bold">About</span>
                       </a>
                     </li>
@@ -42,10 +38,13 @@
                       </a>
                     </li>
                 </ul>
-              </nav>
+            </nav>
+          </div>
+
+          <div class="mt-auto">
               <ul class="ml-0 mt-8 flex items-center" aria-label="Social media">
                 <li class="mr-5 text-xs shrink-0">
-                  <a href="https://github.com/bchiang7" class="block hover:font-bold w-8" target="_blank">
+                  <a href="https://github.com/snizamaddinov" class="block hover:font-bold w-8" target="_blank">
                     <span class="sr-only">
                       Github
                     </span>
@@ -53,51 +52,64 @@
                    </a>
                 </li>
                 <li class="mr-5 text-xs shrink-0">
-                  <a href="https://github.com/bchiang7" class="block hover:font-bold w-8" target="_blank">
+                  <a href="https://www.linkedin.com/in/shanazar-nizamaddinov/" class="block hover:font-bold w-8" target="_blank">
                     <span class="sr-only">
-                      Github
+                      Linkedin
                     </span>
-                    <img src="/assets/icons/github.png" alt="Github Logo" class="w-full">
+                    <img src="/assets/icons/linkedin.png" alt="Linkedin Logo" class="w-full">
                    </a>
                 </li>
                 <li class="mr-5 text-xs shrink-0">
-                  <a href="https://github.com/bchiang7" class="block hover:font-bold w-8" target="_blank">
+                  <a href="https://x.com/shanazar_" class="block hover:font-bold w-8" target="_blank">
                     <span class="sr-only">
-                      Github
+                      X
                     </span>
-                    <img src="/assets/icons/github.png" alt="Github Logo" class="w-full">
+                    <img src="/assets/icons/x.png" alt="X Logo" class="w-full">
                    </a>
                 </li>
               </ul>
-
-              <div class=" pb-0 flex flex-col">
-                <div class="flex-grow"></div>
-                
-                
-              </div>
-              
-            </div>
-          </header>
+          </div>
+        </header>
 
         <main id="content" class="pt-24 lg:w-1/2 lg:py-24">
 
-        </main>
-        <div class="min-h-screen flex flex-col">
-          <!-- Your main content here -->
-          <div class="flex-grow"></div>
+          <!-- About  -->
+          <section id="about" class="scroll-m-16 md:mb-24 lg:mb-6 lg:scroll-mt-24 lg:py-6 lg:pb-20" aria-label="About me">
+            <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-5 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+              <h2 class="sticky top-0 text-sm font-bold uppercase tracking-widest lg:sr-only">
+                About
+              </h2>
+            </div>
+            <div class="font-[350]">
+              <p class="mb-4">I am a Computer Engineering and Mathematics graduate with experience in architecting and developing robust, scalable projects since 2021. While I enjoy Frontend development, I find myself more drawn to Backend work, especially when working in the terminal.
+              </p>
+            
+              <p class="mb-4">Currently, my primary focus is on bridging backend development with AI, building practical and impactful applications. I am also passionate about working with servers and exploring open-source projects. To push my technical boundaries, I've set up a home server where I host my personal website, mail server, and various other services. One of my favorite repositories on GitHub is <a target="_blank" class="text-blue-500 hover:underline" href="https://github.com/awesome-selfhosted/awesome-selfhosted">Awesome-Selfhosted</a>, which contains many self-hosting projects.</p>
+              
+              <p>Beyond coding, I enjoy reading books, watching movies, and playing Asphalt 9. I'm a huge fan of The Office and Succession, and I could talk about them for hours. I also enjoy reading blogs like <a target="_blank" class="text-blue-500 hover:underline" href="https://idlewords.com/">Idle Words</a></p>
+            </div>
+          </section>
           
-          <!-- Footer -->
-          <footer class="py-4 mt-auto w-full">
-            <div class="container mx-auto text-center">
+          <section id="experience"></section>
+          
+          
+          <!-- Projects -->
+           <section id="projects"></section>
+        
+
+          <footer class="sticky top-[100vh]">
+            <div class="text-center">
               <p class="text-xs font-light">
                 This website was inspired by <a href="https://brittanychiang.com/" class="text-blue-500 hover:underline">Britanny Chaig</a> and <a href="https://www.onertaylanozturk.com/" class="text-blue-500 hover:underline">Oner Taylan Ozturk</a>.
               </p>
             </div>
           </footer>
-        </div>
+        </main>
         
     </div>
   </div>
+
+  <script src="scripts/index.js" type="module"></script>
 
 </body>
 </html>
