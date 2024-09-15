@@ -5,7 +5,7 @@ export const experienceData = [
     "company": "BK Mobil",
     "link": "https://bktomorrow.com/",
     "dateRange": {
-      "start": "06-01-2023",
+      "start": "2023/06/01",
       "end": null
     },
     "description": "Lead developer for Metodbox AI project, managing platforms, developing admin panels, and implementing integration systems. Improved user engagement through notification system development.",
@@ -26,7 +26,7 @@ export const experienceData = [
   //   "company": "Freelance",
   //   "link": null,
   //   "dateRange": {
-  //     "start": "12-01-2023",
+  //     "start": "2023/12/01",
   //     "end": null
   //   },
   //   "description": "Tutoring high school students in C programming, focusing on foundational concepts and developing personalized lesson plans.",
@@ -39,8 +39,8 @@ export const experienceData = [
     "company": "QOSHE",
     "link": "https://qoshe.com/",
     "dateRange": {
-      "start": "08-01-2021",
-      "end": "06-01-2023"
+      "start": "2021/08/01",
+      "end": "2023/06/01"
     },
     "description": "Developed Twitter API-based streaming software, implemented logging system, and designed microservices to improve system functionality and efficiency.",
     "technologies": [
@@ -56,8 +56,8 @@ export const experienceData = [
     "company": "Innova",
     "link": "https://www.innova.com.tr/",
     "dateRange": {
-      "start": "07-01-2022",
-      "end": "01-01-2022"
+      "start": "2022/07/01",
+      "end": "2022/01/01"
     },
     "description": "Designed test suites for Web Services, collaborated on bug resolution, and developed full stack web pages for ATS system.",
     "technologies": [
@@ -74,8 +74,8 @@ export const experienceData = [
     "company": "Atilim University",
     "link": "https://www.atilim.edu.tr/",
     "dateRange": {
-      "start": "05-01-2021",
-      "end": "09-01-2021"
+      "start": "2021/05/01",
+      "end": "2021/09/01"
     },
     "description": "Provided information to prospective students and built websites for university events, enhancing communication skills.",
     "technologies": [
