@@ -2,7 +2,7 @@ export const projectsData =
 [
   {
     "title": "Notification System for Metodbox and Ugur Dijital",
-    "url": 'https://metodbox.com/',
+    "url": 'https://www.bktomorrow.com/metodbox/',
     "description": "Developed a comprehensive notification system handling 60+ notification types, increasing platform engagement by 40% and reducing missed educational activities by 60% for 600,000+ users.",
     "technologies": [
       "PHP",
@@ -44,7 +44,7 @@ export const projectsData =
   },
   {
     "title": "Metodbox AI Project",
-    "url": 'https://metodbox.com/',
+    "url": 'https://www.bktomorrow.com/metodbox-ai/',
     "description": "Led development of an AI assistant with RAG capabilities, processing 65,000 videos and 30,000 books, integrating multiple LLMs and implementing voice and image analysis features.",
     "technologies": [
       "Python",
@@ -83,21 +83,3 @@ export const projectsData =
     "image": {"alt": "Twitter API-based Streaming Software card", "src": 'assets/images/qoshe.png'}
   }
 ]
-
-
-
-// {
-//   "title": "Build a Spotify Connected App",
-//   "url": "https://www.newline.co/courses/build-a-spotify-connected-app",
-//   "description": "Video course that teaches how to build a web app with the Spotify Web API. Topics covered include the principles of REST APIs, user auth flows, Node, Express, React, Styled Components, and more.",
-//   "technologies": [
-//     "JavaScript",
-//     "TypeScript",
-//     "React",
-//     "Storybook"
-//   ],
-//   "image": {
-//     "alt": "Build a Spotify Connected App Newline course marketing card",
-//     "src": "/assets/images/image.png"
-//   }
-// }
