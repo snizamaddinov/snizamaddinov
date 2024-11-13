@@ -9,7 +9,7 @@
 ### Little about me
 
 - 👨🏻‍💻🏋️ Currently working on backend projects.
-- 📚 Gained experience with Symfony and Django (a little)
+- 📚 Gained experience with Symfony and Django
 - 🌱 Currently in a journey to master **Spring Boot**.
 
 ### Reach Out
