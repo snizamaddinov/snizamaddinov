@@ -86,8 +86,8 @@
 ## Github Stats
 
 <div align="center" margin="40px">
-  <img padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snizamaddinov&hide_border=true&layout=compact" width="42.5%" />
-  <img padding="5px" src="https://github-readme-stats.vercel.app/api?username=snizamaddinov&rank_icon=github&show_icons=true&count_private=true&hide_border=true" width="56%" />
+  <img padding="5px" src="https://github-readme-stats-flame-rho-85.vercel.app/api/top-langs/?username=snizamaddinov&hide_border=true&layout=compact" width="42.5%" />
+  <img padding="5px" src="https://github-readme-stats-flame-rho-85.vercel.app/api?username=snizamaddinov&rank_icon=github&show_icons=true&count_private=true&hide_border=true" width="56%" />
 </div>
 
 <div align="center" style="margin: 40px">
