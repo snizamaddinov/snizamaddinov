@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Backend Engineer",
+    "company": "BK Mobil",
+    "url": "https://bktomorrow.com/",
+    "period": { "start": "2023-06", "end": null },
+    "summary": "Lead developer of Metodbox AI, a RAG assistant with LangGraph multi-agent workflows over about 65,000 videos and 30,000+ books. I am now building the next version of bkai, an LLM service that generates educational questions and images, and leading its migration to AWS EKS. Earlier work includes the notification system for about 600,000 users, integrations with 20+ third-party platforms and the Seçenek admin panel.",
+    "tech": ["Python", "Django", "PHP", "Symfony", "LangChain", "LangGraph", "AWS", "Kubernetes", "Docker", "MySQL", "OpenSearch"]
+  },
+  {
+    "title": "Backend Developer",
+    "company": "QOSHE",
+    "url": "https://qoshe.com/",
+    "period": { "start": "2021-08", "end": "2023-06" },
+    "summary": "Built a Twitter API-based streaming system for QOSHE News, a parallel logging system for real-time actions, and microservices that distribute processing across the system.",
+    "tech": ["Python", "MySQL", "Redis", "MongoDB"]
+  },
+  {
+    "title": "Full Stack Developer Intern",
+    "company": "Innova",
+    "url": "https://www.innova.com.tr/",
+    "period": { "start": "2022-07", "end": "2023-01" },
+    "summary": "Developed full-stack pages of ATS, the receivables-tracking product that is today PayFlex, wrote Cucumber test suites for its web services and fixed bugs together with the test team.",
+    "tech": ["Java", "Spring Boot", "Vue.js 2", "Cucumber", "Jira", "Bitbucket"]
+  },
+  {
+    "title": "Web Developer Intern",
+    "company": "Atılım University",
+    "url": "https://www.atilim.edu.tr/",
+    "period": { "start": "2021-05", "end": "2021-09" },
+    "summary": "Built the websites for the university's Promotion and Preference Days and helped prospective students during the events.",
+    "tech": ["PHP", "JavaScript", "MySQL"]
+  }
+]
