@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{name}} — {{title}}</title>
+  <meta name="description" content="{{description}}">
+  <meta name="author" content="{{name}}">
+  <link rel="canonical" href="{{siteUrl}}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{name}}">
+  <meta property="og:title" content="{{name}} — {{title}}">
+  <meta property="og:description" content="{{description}}">
+  <meta property="og:url" content="{{siteUrl}}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{name}} — {{title}}">
+  <meta name="twitter:description" content="{{description}}">
+  <script type="module" src="/src/main.js"></script>
+</head>
+<body class="bg-slate-50 !font-sans leading-7 tracking-wider text-slate-900">
+
+  <div class="mx-auto min-h-screen max-w-screen-xl px-6 py-12 md:px-12 md:py-20 lg:px-24 lg:py-0">
+    <div class="lg:flex lg:justify-between lg:gap-16">
+      <header class="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
+        <div>
+          <h1 class="mt-4 text-4xl sm:text-5xl">
+            <a href="/">{{name}}</a>
+          </h1>
+          <h2 class="mt-3 text-lg sm:text-xl">{{title}}</h2>
+          <p class="mt-3 max-w-sm leading-normal">{{tagline}}</p>
+
+          <nav class="hidden lg:block" aria-label="Sections">
+            <ul class="mt-16 w-max">
+              <li><a class="group flex items-center py-3" href="#about"><span class="nav-text text-xs uppercase tracking-widest group-hover:font-bold group-focus-visible:font-bold">About</span></a></li>
+              <li><a class="group flex items-center py-3" href="#experience"><span class="nav-text text-xs uppercase tracking-widest group-hover:font-bold group-focus-visible:font-bold">Experience</span></a></li>
+              <li><a class="group flex items-center py-3" href="#projects"><span class="nav-text text-xs uppercase tracking-widest group-hover:font-bold group-focus-visible:font-bold">Projects</span></a></li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="mt-8 lg:mt-auto">
+          <a class="inline-flex items-center rounded-full border border-slate-900 px-4 py-1.5 text-xs font-medium uppercase tracking-widest transition hover:bg-slate-900 hover:text-slate-50" href="{{resumePath}}" target="_blank" rel="noopener">{{resumeLabel}}</a>
+          <ul class="ml-0 mt-6 flex items-center" aria-label="Social media">
+            <!-- render:socials -->
+          </ul>
+        </div>
+      </header>
+
+      <main id="content" class="pt-16 lg:w-1/2 lg:py-24">
+
+        <section id="about" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-6 lg:scroll-mt-24 lg:py-6 lg:pb-20" aria-label="About me">
+          <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+            <h2 class="text-sm font-bold uppercase tracking-widest lg:sr-only">About</h2>
+          </div>
+          <div class="font-[350]">
+            <!-- render:about -->
+          </div>
+        </section>
+
+        <section id="experience" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24 lg:py-6" aria-label="Work experience">
+          <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+            <h2 class="text-sm font-bold uppercase tracking-widest lg:sr-only">Experience</h2>
+          </div>
+          <!-- render:experience -->
+        </section>
+
+        <section id="projects" class="mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24 lg:py-6" aria-label="Projects">
+          <div class="sticky top-0 z-20 -mx-6 mb-4 w-screen px-6 py-5 backdrop-blur md:-mx-12 md:px-12 lg:sr-only lg:relative lg:top-auto lg:mx-auto lg:w-full lg:px-0 lg:py-0 lg:opacity-0">
+            <h2 class="text-sm font-bold uppercase tracking-widest lg:sr-only">Projects</h2>
+          </div>
+          <!-- render:projects -->
+        </section>
+
+        <footer class="text-center">
+          <p class="text-xs font-light">
+            This website was inspired by <a href="https://brittanychiang.com/" class="text-blue-600 hover:underline" target="_blank" rel="noreferrer noopener">Brittany Chiang</a> and <a href="https://www.onertaylanozturk.com/" class="text-blue-600 hover:underline" target="_blank" rel="noreferrer noopener">Oner Taylan Ozturk</a>.
+          </p>
+        </footer>
+      </main>
+    </div>
+  </div>
+
+</body>
+</html>

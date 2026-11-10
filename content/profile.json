@@ -1,0 +1,22 @@
+{
+  "name": "Shanazar Nizamaddinov",
+  "title": "Backend Engineer",
+  "tagline": "I build backend systems and the LLM and RAG services that run on top of them.",
+  "siteUrl": "https://snizamaddinov.com/",
+  "description": "Shanazar Nizamaddinov is a backend engineer in Ankara who builds production LLM and RAG systems with Python/Django and PHP/Symfony on AWS.",
+  "about": [
+    "I'm a backend engineer based in Ankara, with a degree in Computer Engineering and a minor in Mathematics. I have been building backend systems since 2021, mostly in Python/Django and PHP/Symfony, and I am happiest when the work keeps me close to the terminal.",
+    "For the last few years my focus has been AI-backed backend systems. At BK Mobil I lead Metodbox AI, an assistant that answers from about 65,000 videos and more than 30,000 books using Retrieval-Augmented Generation and LangGraph multi-agent workflows. Right now I am building the next version of an LLM service that generates educational questions and images, and moving it to Kubernetes on AWS.",
+    "I also like running servers myself. I keep a home server where I host my own services, and one of my favourite repositories on GitHub is [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), a long list of software you can host yourself.",
+    "Away from the keyboard I run, play football and enjoy filmmaking. I'm a huge fan of The Office and Succession, and I could talk about them for hours. I also like reading blogs such as [Idle Words](https://idlewords.com/)."
+  ],
+  "resume": {
+    "label": "Résumé",
+    "path": "/Shanazar_Nizamaddinov_CV.pdf"
+  },
+  "socials": [
+    { "name": "GitHub", "url": "https://github.com/snizamaddinov", "icon": "/icons/github.png" },
+    { "name": "LinkedIn", "url": "https://www.linkedin.com/in/shanazar-nizamaddinov/", "icon": "/icons/linkedin.png" },
+    { "name": "X", "url": "https://x.com/shanazar_", "icon": "/icons/x.png" }
+  ]
+}
