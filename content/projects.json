@@ -62,7 +62,7 @@
   {
     "id": "tercih-tv",
     "title": "Tercih TV",
-    "summary": "Built the AI assistant of a university-preference platform and part of its Symfony backend. The assistant works on students' own data, and added OCR reads scores from uploaded exam results.",
+    "summary": "Built the AI assistant of a university-preference platform and part of its Symfony backend, connected the assistant to students' own data, and added OCR that reads scores from uploaded exam results.",
     "role": "Backend engineer",
     "company": "BK Mobil",
     "period": {
