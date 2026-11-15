@@ -2,7 +2,7 @@
   {
     "id": "metodbox-ai",
     "title": "Metodbox AI",
-    "summary": "The AI assistant of the Metodbox education platform. It answers from about 65,000 videos and 30,000+ books, serves several institutions, and acts on the platform: teachers create content with it, and students are taken to the right place from their questions.",
+    "summary": "The AI layer of the Metodbox education platform. It answers from about 65,000 lesson videos and 30,000+ books and sends students to the exact video or book. Teachers create assignments and study sessions just by writing to the chat, which fills the same form the page shows.",
     "role": "Lead developer",
     "company": "BK Mobil",
     "period": {
@@ -34,7 +34,7 @@
   {
     "id": "ugurlu-asistan",
     "title": "Uğurlu Asistan",
-    "summary": "The customer-service assistant on the Uğur Okulları website. It answers school and campus questions, fills in contact and pre-registration forms in the chat, shows parents their purchases, and passes the conversation to the right support team when asked.",
+    "summary": "The customer-service agent on the Uğur Okulları website. It takes pre-registrations inside the chat, shows parents their book and uniform orders, and hands the conversation to the right support team when someone asks for a person.",
     "role": "Backend engineer",
     "company": "BK Mobil",
     "period": {
@@ -47,10 +47,9 @@
     "tech": [
       "Python",
       "Django",
+      "Django Channels",
       "LangGraph",
-      "OpenAI",
       "PostgreSQL",
-      "WebSockets",
       "Next.js"
     ],
     "links": {
@@ -63,7 +62,7 @@
   {
     "id": "tercih-tv",
     "title": "Tercih TV",
-    "summary": "An AI-based platform that helps students choose universities after the YKS exam. I built parts of the backend and the whole AI part: recommendations from the student's scores, preference-list building, and reading scores from a photo of the exam result.",
+    "summary": "The AI assistant of a university-preference platform. It works on the student's own data: it recommends programmes from their results, adds them to their preference list, and reads scores from a photo of the exam result.",
     "role": "Backend engineer",
     "company": "BK Mobil",
     "period": {
@@ -76,10 +75,8 @@
     "tech": [
       "PHP",
       "Symfony",
-      "OpenAI",
-      "Tool calling",
-      "OCR",
-      "MySQL"
+      "MySQL",
+      "OpenAI API"
     ],
     "links": {
       "live": "https://tercih.tv/",
@@ -91,7 +88,7 @@
   {
     "id": "tercihbot",
     "title": "TercihBot",
-    "summary": "A platform that helps 8th-grade students choose their high school after the LGS exam. I built parts of the backend and the whole AI chatbot, which works with the student's data and builds their preference list.",
+    "summary": "The AI assistant of a high-school preference platform. It answers from the platform's data on schools, scores and exam dates, and helps each student build their preference list.",
     "role": "Backend engineer",
     "company": "BK Mobil",
     "period": {
@@ -104,9 +101,8 @@
     "tech": [
       "PHP",
       "Symfony",
-      "OpenAI",
-      "Tool calling",
-      "MySQL"
+      "MySQL",
+      "OpenAI API"
     ],
     "links": {
       "live": "https://tercihbot.com/",
@@ -118,7 +114,7 @@
   {
     "id": "bkai",
     "title": "bkai",
-    "summary": "An LLM service that generates educational questions, images and content for teachers. I am building its next version, with versioned and regenerable results and queued jobs on AWS Lambda, and moving it to Kubernetes on AWS EKS.",
+    "summary": "A FastAPI service that generates curriculum-aligned questions, reading passages and images for teachers. I am rewriting it with asynchronous Lambda jobs, versioned questions, and Bloom and curriculum classification, and moving it to AWS EKS.",
     "role": "Backend engineer",
     "company": "BK Mobil",
     "period": {
@@ -130,10 +126,11 @@
     "order": 5,
     "tech": [
       "Python",
+      "FastAPI",
+      "SQLAlchemy",
       "AWS Lambda",
       "Amazon S3",
-      "AWS EKS",
-      "Kubernetes"
+      "AWS EKS"
     ],
     "links": {
       "live": null,
