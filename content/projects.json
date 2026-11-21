@@ -231,10 +231,10 @@
     "id": "qoshe-streaming",
     "title": "Twitter API Streaming System",
     "summary": "A fault-tolerant streaming system that feeds the QOSHE news platform from the Twitter API.",
-    "role": "Backend developer",
+    "role": "Backend engineer",
     "company": "QOSHE",
     "period": {
-      "start": "2021-08",
+      "start": "2021-07",
       "end": "2023-06"
     },
     "status": "live",

@@ -23,11 +23,11 @@
     ]
   },
   {
-    "title": "Backend Developer",
+    "title": "Backend Engineer",
     "company": "QOSHE",
     "url": "https://qoshe.com/",
     "period": {
-      "start": "2021-08",
+      "start": "2021-07",
       "end": "2023-06"
     },
     "summary": "Built a Twitter API streaming system for QOSHE News, a parallel logging system for real-time actions, and microservices that spread processing across the system.",
@@ -61,8 +61,8 @@
     "company": "Atılım University",
     "url": "https://www.atilim.edu.tr/",
     "period": {
-      "start": "2021-05",
-      "end": "2021-09"
+      "start": "2021-06",
+      "end": "2021-08"
     },
     "summary": "Built the websites for the university's Promotion and Preference Days.",
     "tech": [
